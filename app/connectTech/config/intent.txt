@@ -7,6 +7,9 @@
       "intent": "getRonSwansonQuote"
     },
     {
+      "intent": "whenIsPayDay"
+    },
+    {
       "slots": [
         {
           "name": "NAME",

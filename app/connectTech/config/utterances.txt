@@ -14,3 +14,6 @@ getRonSwansonQuote listen to Ron Swanson
 audioPlayer play {NAME}
 audioPlayer let me hear {NAME}
 audioPlayer {NAME}
+
+whenIsPayDay when is payday
+whenIsPayDay when is pay day
